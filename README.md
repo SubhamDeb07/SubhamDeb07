@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/SubhamDeb07/SubhamDeb07/blob/main/github-header-image.png?raw=true" width="100%" alt="Header Image">
+  <img src="https://github.com/SubhamDeb07/SubhamDeb07/blob/main/github-header-image.png?raw=true" width="80%" alt="Header Image">
 </p>
 <img align="right" alt="Coding" width="300" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif">
 <!-- Introduction -->
